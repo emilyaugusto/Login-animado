@@ -6,7 +6,6 @@ Este projeto traz uma tela de login com a animação do personagem Teddy, que ap
 
 Com esse projeto, você pode ter uma tela de login divertida, interativa e com um toque de charme, tudo isso com o Teddy dando boas-vindas ao usuário! 
 
----
 
 ## 📦 Funcionalidades
 
